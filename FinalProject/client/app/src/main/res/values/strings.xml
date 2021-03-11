@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RunBuddy</string>
+    <string name="title_activity_find_friends_for_run">Map</string>
+    <string name="title_activity_home_page">HomePage</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_test">test</string>
+</resources>
