@@ -13,7 +13,6 @@ const db = client.db("RunBuddy");
 console.log(`connected to database ${db.databaseName}`);
 
 
-
 app.post('/newToken/:token', (req, res) => {
     token = req.params['token'];
 });
